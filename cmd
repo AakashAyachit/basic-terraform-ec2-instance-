@@ -30,7 +30,7 @@ Note: You didn't use the -out option to save this plan, so Terraform can't guara
 you run "terraform apply" now.
 
 C:\Aakash imp documents\AWS Devops\terraform MAIN\ec2instance_all_details>terraform apply
-aws_instance.no: Refreshing state... [id=i-0f142df9966445af1]
+aws_instance.no: Refreshing state... [id=i-0f142df9966445af1]s
 
 Terraform used the selected providers to generate the following execution plan. Resource actions are indicated with the
 following symbols:
