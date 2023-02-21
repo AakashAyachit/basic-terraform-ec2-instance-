@@ -22,6 +22,7 @@ resource "aws_instance" "no" {
 
     tags = {// for giving visible name to the instance
         Name = var.instance_name
+        #Name = "xyz"  <-- for giving own name, not using a separate variables.tf file      
     }
   
 }
